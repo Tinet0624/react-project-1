@@ -16,4 +16,5 @@ The goal here was to use react and CSS to recreate the template form [Figma](htt
 <br>
 Here is how mine turned out. Again this is nothing super fancy just the beginning of learning react and how it works.
 <br>
+
 ![ReactIMG](./images/MyFirstReactSite.jpg)
